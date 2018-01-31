@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Check_Boxes</string>
+    <string name="php">Php</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="Fav">Favourite</string>
+</resources>
